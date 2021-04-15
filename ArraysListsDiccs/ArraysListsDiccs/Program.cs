@@ -12,7 +12,9 @@ namespace ArraysListsDiccs
         {
             Actividades A = new Actividades();
             //A.A39();
-            A.A40();
+            //A.A40();
+            //A.A41();
+            A.A43();
             Console.ReadKey();
 
         }
